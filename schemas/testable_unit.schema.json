@@ -1,0 +1,9 @@
+{
+  "type": "object",
+  "properties": {
+    "unit_id": {"type": "string"},
+    "req": {"type": "string"},
+    "behavior": {"type": "string"}
+  },
+  "required": ["unit_id", "req", "behavior"]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "object",
+  "properties": {
+    "tc_id": {"type": "string"},
+    "objective": {"type": "string"},
+    "precondition": {"type": "string"},
+    "dataset": {"type": "array"},
+    "steps": {"type": "array"},
+    "expected": {"type": "array"},
+    "trace": {"type": "string"},
+    "type": {"type": "string"}
+  },
+  "required": ["tc_id", "objective", "precondition", "steps", "expected", "trace", "type"]
+}

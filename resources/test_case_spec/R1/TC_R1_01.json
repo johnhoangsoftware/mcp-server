@@ -1,0 +1,10 @@
+{
+  "tc_id": "TC_R1_01",
+  "objective": "Verify behavior: Valid email accepted",
+  "precondition": "System is ready",
+  "dataset": [],
+  "steps": [],
+  "expected": [],
+  "trace": "R1 → TU_R1_01",
+  "type": "Functional"
+}

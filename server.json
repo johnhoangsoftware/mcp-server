@@ -1,0 +1,15 @@
+{
+  "name": "req-to-testcase-server",
+  "tools": [
+    "list_requirements",
+    "load_requirement",
+    "extract_testable_units",
+    "generate_test_case_spec",
+    "save_test_case_spec"
+  ],
+  "schemas": [
+    "requirement.schema.json",
+    "testable_unit.schema.json",
+    "test_case_spec.schema.json"
+  ]
+}

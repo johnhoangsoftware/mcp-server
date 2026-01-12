@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "name": "mcp-demo",
+  "description": "Requirement → Testable Units → Test Case Spec generator using FastMCP",
+  "server": {
+    "command": "python",
+    "args": ["server.py"]
+  }
+}
