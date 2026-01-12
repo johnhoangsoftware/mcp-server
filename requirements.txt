@@ -4,3 +4,4 @@ uvicorn
 fastmcp
 dotenv
 openai
+openpyxl
